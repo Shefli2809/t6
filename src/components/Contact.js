@@ -12,7 +12,7 @@ function Contact() {
           <h2 className="fw-bolder text-light">Contact Me</h2>
           <div className="mb-3 d-flex flex-sm-row flex-column justify-content-center align-items-center">
             <ContactItem icon={faEnvelope} text="shefli2809@gmail.com" link="mailto:shefli2809@gmail.com" />
-            <ContactItem icon={faPhone} text="8547729389" link="tel:9698191000" />
+            <ContactItem icon={faPhone} text="9698191000" link="tel:9698191000" />
             <ContactItem icon={faGithub} text="GitHub" link="https://github.com/Shefli2809" target="_blank" />
           </div>
         </div>
